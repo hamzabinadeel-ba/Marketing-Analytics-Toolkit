@@ -18,89 +18,46 @@ Modern marketing decisions rely on multiple analytical perspectives. This toolki
 
 ## **Cluster Analysis**
 
-# What it is:
-A segmentation technique that groups customers based on similarity in behaviors or preferences.
+- **What it is:** A segmentation technique that groups customers based on similarity in behaviors or preferences.
 
-How it works:
-Uses distance metrics (e.g., Euclidean, Manhattan) and algorithms such as k-means and hierarchical clustering to create internally cohesive and externally distinct groups.
+* **How it works:** Uses distance metrics (e.g., Euclidean, Manhattan) and algorithms such as k-means and hierarchical clustering to create internally cohesive and externally distinct groups.
 
-Managerial use:
++ **Managerial use:** Customer segmentation and targeting, Personalised messaging and promotions, Resource allocation across high-value and low-value segments
 
-Customer segmentation and targeting
+## **Choice Models**
 
-Personalised messaging and promotions
+- **What they are:** Predictive models that estimate the probability of a customer choosing one option over another.
 
-Resource allocation across high-value and low-value segments
+* **How they work:** Typically implemented using multinomial logit models, linking choice outcomes to product attributes such as price, brand, or delivery speed.
 
-2. Choice Models
++ **Managerial use:** Pricing and promotion optimisation, Product positioning decisions, Assessing impact of removing or adding product options
 
-What they are:
-Predictive models that estimate the probability of a customer choosing one option over another.
+## **Conjoint Analysis**
 
-How they work:
-Typically implemented using multinomial logit models, linking choice outcomes to product attributes such as price, brand, or delivery speed.
+- **What it is:** A preference-based technique used to measure how customers value different product attributes.
 
-Managerial use:
+* **How it works:** Customers evaluate or choose between product profiles, allowing estimation of trade-offs and willingness to pay.
 
-Pricing and promotion optimisation
++ **Managerial use:** Product and feature design, Competitive positioning, Bundle creation and pricing strategy
 
-Product positioning decisions
+## **Market Response Models**
 
-Assessing impact of removing or adding product options
+- **What they are:** Models that quantify how marketing inputs affect business outputs such as sales or market share.
 
-3. Conjoint Analysis
+* **How they work:** Often implemented using linear or log-linear regression on time-series or panel data.
 
-What it is:
-A preference-based technique used to measure how customers value different product attributes.
++ **Managerial use:** Marketing budget allocation, ROI optimisation, Sales forecasting and campaign planning
 
-How it works:
-Customers evaluate or choose between product profiles, allowing estimation of trade-offs and willingness to pay.
+# Who This Is For
 
-Managerial use:
+- Marketing Analysts
 
-Product and feature design
+* Business & Strategy Analysts
 
-Competitive positioning
++ Consultants
 
-Bundle creation and pricing strategy
+- Graduate and early-career professionals in analytics
 
-4. Market Response Models
+# Key Takeaway
 
-What they are:
-Models that quantify how marketing inputs affect business outputs such as sales or market share.
-
-How they work:
-Often implemented using linear or log-linear regression on time-series or panel data.
-
-Managerial use:
-
-Marketing budget allocation
-
-ROI optimisation
-
-Sales forecasting and campaign planning
-
-Key Skills Demonstrated
-
-Analytical thinking and model selection
-
-Translating theory into managerial insight
-
-Understanding assumptions, bias, and limitations
-
-Structuring analytics knowledge for decision-makers
-
-Who This Is For
-
-Marketing Analysts
-
-Business & Strategy Analysts
-
-Consultants
-
-Graduate and early-career professionals in analytics
-
-Key Takeaway
-
-Analytics tools create value only when they inform decisions.
-This toolkit focuses on bridging the gap between statistical models and real-world marketing strategy.
+Analytics tools create value only when they inform decisions. This toolkit focuses on bridging the gap between statistical models and real-world marketing strategy.
