@@ -1,4 +1,4 @@
-# Marketing-Analytics-Toolkit
+# Marketing Analytics Toolkit
 
 # **Overview**
 
